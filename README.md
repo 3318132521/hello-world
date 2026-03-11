@@ -1,24 +1,12 @@
 
 # Hello, World! 🌍
 
-I'm an Automation student exploring the intersection of **Spatial Intelligence, Algorithms, and Machine Learning**.
+I AM THE ONE 
 
 ## About Me
 
-- 🎓 Automation Student
-- 🤖 Interested in Robotics & AI
-- 💻 Learning Algorithms and Machine Learning
+- 🎓 **CS Student**
+- 💻 **Learning Algorithms and Machine Learning**
+- 🎶 **just start**
 
-## Research Interests
-
-- Spatial Intelligence
-- Machine Learning
-- Robotics
-
-## Programming Languages
-
-- Python
-- C++
-- MATLAB
-
-> Wandering through the worldly dust, humming the cadence of fleeting time.
+![demo](https://via.placeholder.com/400)
